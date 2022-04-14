@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yuezy3.github.io/csb-zrrh70/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yuezy3.github.io/csb-zrrh70/static/js/main.a6291ebd.chunk.js",
+    "main.js.map": "https://yuezy3.github.io/csb-zrrh70/static/js/main.a6291ebd.chunk.js.map",
+    "runtime-main.js": "https://yuezy3.github.io/csb-zrrh70/static/js/runtime-main.b3455e3a.js",
+    "runtime-main.js.map": "https://yuezy3.github.io/csb-zrrh70/static/js/runtime-main.b3455e3a.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://yuezy3.github.io/csb-zrrh70/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://yuezy3.github.io/csb-zrrh70/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://yuezy3.github.io/csb-zrrh70/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yuezy3.github.io/csb-zrrh70/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://yuezy3.github.io/csb-zrrh70/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3455e3a.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a6291ebd.chunk.js"
+  ]
+}
